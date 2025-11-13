@@ -1,10 +1,10 @@
 <!-- 3D WAVE ANIMATION BACKGROUND -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves.gif" width="100%" height="180" />
+  <img src="https://github.com/kanika2902/kanika2902/blob/main/BG%20Image.png?raw=true" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋;I'm+Kanika+Choudhary;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI" />
+  <font=Montserrat&size=32&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋;I'm+Kanika+Choudhary;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI" />
 </h1>
 
 <p align="center">
