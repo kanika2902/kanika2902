@@ -1,7 +1,5 @@
 <!-- 3D WAVE ANIMATION BACKGROUND -->
-<p align="center">
-  <img src="https://github.com/kanika2902/kanika2902/blob/main/BG%20Image.png?raw=true" width="100%" height="400px" />
-</p>
+
 
 
 
